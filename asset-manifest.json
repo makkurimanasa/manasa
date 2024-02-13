@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/manasa/static/css/main.7ff35193.css",
-    "main.js": "/manasa/static/js/main.750dc6f5.js",
+    "main.css": "/manasa/static/css/main.58a38e6c.css",
+    "main.js": "/manasa/static/js/main.1378010e.js",
     "static/js/592.e0c1d20b.chunk.js": "/manasa/static/js/592.e0c1d20b.chunk.js",
     "static/media/mallareddyuniversity.jpg": "/manasa/static/media/mallareddyuniversity.bf6a79d5ec05771f4c98.jpg",
     "index.html": "/manasa/index.html",
-    "main.7ff35193.css.map": "/manasa/static/css/main.7ff35193.css.map",
-    "main.750dc6f5.js.map": "/manasa/static/js/main.750dc6f5.js.map",
+    "main.58a38e6c.css.map": "/manasa/static/css/main.58a38e6c.css.map",
+    "main.1378010e.js.map": "/manasa/static/js/main.1378010e.js.map",
     "592.e0c1d20b.chunk.js.map": "/manasa/static/js/592.e0c1d20b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ff35193.css",
-    "static/js/main.750dc6f5.js"
+    "static/css/main.58a38e6c.css",
+    "static/js/main.1378010e.js"
   ]
 }
