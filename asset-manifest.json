@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/557_mernstack/static/css/main.7784ee36.css",
-    "main.js": "/557_mernstack/static/js/main.14882ab5.js",
-    "static/js/592.fdde8cbf.chunk.js": "/557_mernstack/static/js/592.fdde8cbf.chunk.js",
-    "index.html": "/557_mernstack/index.html",
-    "main.7784ee36.css.map": "/557_mernstack/static/css/main.7784ee36.css.map",
-    "main.14882ab5.js.map": "/557_mernstack/static/js/main.14882ab5.js.map",
-    "592.fdde8cbf.chunk.js.map": "/557_mernstack/static/js/592.fdde8cbf.chunk.js.map"
+    "main.css": "/manasa/static/css/main.7784ee36.css",
+    "main.js": "/manasa/static/js/main.26ab4632.js",
+    "static/js/592.11b1acc6.chunk.js": "/manasa/static/js/592.11b1acc6.chunk.js",
+    "index.html": "/manasa/index.html",
+    "main.7784ee36.css.map": "/manasa/static/css/main.7784ee36.css.map",
+    "main.26ab4632.js.map": "/manasa/static/js/main.26ab4632.js.map",
+    "592.11b1acc6.chunk.js.map": "/manasa/static/js/592.11b1acc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7784ee36.css",
-    "static/js/main.14882ab5.js"
+    "static/js/main.26ab4632.js"
   ]
 }
