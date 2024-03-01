@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/manasa/static/css/main.eadfa039.css",
-    "main.js": "/manasa/static/js/main.4f88e1ce.js",
+    "main.js": "/manasa/static/js/main.e69d2807.js",
     "static/js/592.11b1acc6.chunk.js": "/manasa/static/js/592.11b1acc6.chunk.js",
     "index.html": "/manasa/index.html",
     "main.eadfa039.css.map": "/manasa/static/css/main.eadfa039.css.map",
-    "main.4f88e1ce.js.map": "/manasa/static/js/main.4f88e1ce.js.map",
+    "main.e69d2807.js.map": "/manasa/static/js/main.e69d2807.js.map",
     "592.11b1acc6.chunk.js.map": "/manasa/static/js/592.11b1acc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eadfa039.css",
-    "static/js/main.4f88e1ce.js"
+    "static/js/main.e69d2807.js"
   ]
 }
